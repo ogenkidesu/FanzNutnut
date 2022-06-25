@@ -1,3 +1,6 @@
+/*THANKS FOR 
+FAMILYDOTID*/
+
 let fs = require('fs')
 
 let flaaa = JSON.parse(fs.readFileSync('./api/fla.json'))
@@ -43,12 +46,11 @@ global.eror = '_*мααƒ ѕєяνєя тι∂αк ѕтαвιℓ..*_'
 
 //========Url Template Buttons=========//
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/aguzfamilia"
+global.urlnya = "https://www.instagram.com/kazuko.botz"
 
 //============= callButtons =============//
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62 813-2017-0984'
-
+global.phn = '+62 821-9023-3157'
 //============= Games ================//
 global.benar = '_*Benar✅*_'
 global.salah = '_*Salah❌*_'
@@ -62,7 +64,7 @@ global.author = data.owner;
 
 //=========== Requirements ==========//  
         global.colong1 = 'Ciss 📸'
-        global.colong2 = 'ʙy ᴀɢᴜᴢ ꜰᴀᴍɪʟɪᴀ'
+        global.colong2 = 'ʙy FanzNootNoot'
 global.img = pickRandom(waifu)
 global.fla = pickRandom(flaaa)
 
