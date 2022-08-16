@@ -16,10 +16,10 @@ let handler = async(m, { conn, usedPrefix, command }) => {
   }
 }
 
-handler.help = ["self", "public"]
+handler.help = ["self","public"]
 handler.tags = ["owner"]
 handler.command = /^(self|publi(c|k))/i
 
-handler.rowner = true 
+handler.owner = true 
 
 module.exports = handler
